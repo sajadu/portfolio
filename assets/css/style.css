@@ -1054,7 +1054,7 @@ section .container {
   }
 }
 .credits a {
-  color: #18d26e;
+  color: Black;
   transition: 0.3s;
 }
 .credits a:hover {
