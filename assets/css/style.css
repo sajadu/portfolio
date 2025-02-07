@@ -20,28 +20,6 @@ p
 {
   font-style, roboto;
 }
-
-.button2 {
-    margin-top: -150px; 
-    position: fixed;
-    bottom: 200px;
-    left: 20px;
-    background-color: #007bff;
-    color: white;
-    padding: 12px 18px;
-    font-size: 16px;
-    text-align: center;
-    border-radius: 25px;
-    text-decoration: none;
-    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2);
-    z-index: 9999;
-    transition: background-color 0.3s ease;
-}
-
-.button2:hover {
-    background-color: #0056b3;
-}
-
   
 
 .button {
